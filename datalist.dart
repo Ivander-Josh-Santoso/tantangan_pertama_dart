@@ -1,10 +1,10 @@
-// datalisku = [4,7,8,2,6,3,6]
+// datalisku = [4,7,8,2,6,3,6,78]
 
 // 1. urutkan
 // 2. tambahkan angka 109
 
 class DataListManager {
-  List<int> dataList = [4, 7, 8, 2, 6, 3, 6];
+  List<int> dataList = [4, 7, 8, 2, 6, 3, 6, 78];
 
   void sortData() {
     dataList.sort();
